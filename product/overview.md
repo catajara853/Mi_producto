@@ -12,13 +12,15 @@ Herramienta para una constructora que está empezando. Sirve para armar cotizaci
 
 ## Sponsor
 
-El mismo constructor, con su tiempo y su plata. Por ahora invierte tiempo en definir la herramienta; el presupuesto de inversión se define después. Para seguir invirtiendo quiere ver en 3–6 meses **clientes nuevos que lleguen gracias a la herramienta** y **clientes satisfechos**. Falta ponerle un número a ese criterio.
+El mismo constructor, con su tiempo y su plata. Por ahora invierte tiempo en definir la herramienta; el presupuesto de inversión se define después. Para seguir invirtiendo quiere ver, **primero**, costo evitado (menos pagos atrasados o frenados, menos discusiones por plata, menos tiempo respondiendo por el avance) y **clientes satisfechos**. **Después**, cuando la herramienta esté probada, **clientes nuevos que lleguen gracias a ella** (horizonte de 3–6 meses). Falta ponerle números a estos criterios. Orden ajustado el 2026-11-09 en `/frame-opportunity`.
 
 ## Creencias no verificadas
 
 Ordenadas por impacto × incertidumbre: la primera es la siguiente que hay que atacar.
 
 1. [product] [value] Las familias de estrato 3–5 que van a construir o a terminar obra gris escogen constructor en buena parte por la transparencia: prefieren al que les deja ver y comparar acabados y cotizaciones y seguir el avance en una herramienta, antes que al que manda un Excel y reporta por WhatsApp, aunque sea un poco más caro.
-2. [product] [value] Los clientes usarían por voluntad propia la herramienta para especificar ellos mismos los acabados y armar varias cotizaciones según su presupuesto, en vez de preferir que el constructor les proponga una opción cerrada.
-3. [product] [value] La causa principal de que un presupuesto no alcance en las obras del constructor es la mala estimación inicial (cantidades, precios, ítems olvidados), no los cambios que pide el cliente ni los imprevistos de obra. Por eso una cotización con costos estructurados reduce los sobrecostos.
-4. [product] [viability] En 3–6 meses, la herramienta trae al menos un cliente nuevo que no habría llegado sin ella, y eso le basta al constructor para seguir invirtiendo tiempo y plata (el número exacto de clientes falta definirlo).
+2. [opportunity: confianza-plata-obra] [value] Las familias del segmento hoy gastan esfuerzo real en verificar que lo que pagaron corresponda con lo que avanzó la obra: en su última obra, al menos la mitad hizo visitas no planeadas para revisar, pidió fotos o reportes una y otra vez, o frenó un pago hasta ver el avance.
+3. [opportunity: confianza-plata-obra] [viability] Si la familia ve el avance ligado a cada pago, el constructor deja de recibir pagos atrasados y preguntas repetidas sobre el avance, y el cliente terminaría la obra dispuesto a recomendarlo.
+4. [product] [value] Los clientes usarían por voluntad propia la herramienta para especificar ellos mismos los acabados y armar varias cotizaciones según su presupuesto, en vez de preferir que el constructor les proponga una opción cerrada.
+5. [product] [value] La causa principal de que un presupuesto no alcance en las obras del constructor es la mala estimación inicial (cantidades, precios, ítems olvidados), no los cambios que pide el cliente ni los imprevistos de obra. Por eso una cotización con costos estructurados reduce los sobrecostos.
+6. [product] [viability] En 3–6 meses, la herramienta trae al menos un cliente nuevo que no habría llegado sin ella, y eso le basta al constructor para seguir invirtiendo tiempo y plata (el número exacto de clientes falta definirlo).
