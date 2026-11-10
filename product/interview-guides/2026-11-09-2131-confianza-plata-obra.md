@@ -20,6 +20,8 @@
 Va primero por orden cronológico. **No usar las palabras "confianza" ni "transparencia"**: si aparecen, que las traiga el participante.
 
 - Cuéntame cómo llegaste a la persona que hizo la obra.
+  - Sondeo: ¿quién lo escogió? ¿qué participación tuviste tú?
+  - Sondeo, si no lo escogió el participante: ¿qué pediste o pusiste como condición antes de aceptar?
   - Sondeo: ¿a quién más le pediste cotización? ¿qué pasó con esas otras?
   - Sondeo: ¿en qué momento decidiste que era esa persona y no otra? ¿qué te terminó de convencer?
   - Sondeo: ¿hubo algo que te hizo dudar?
@@ -41,7 +43,8 @@ Va primero por orden cronológico. **No usar las palabras "confianza" ni "transp
 ### Objetivo 2: qué evidencia necesitan para soltar un pago (8 min)
 Es el tema de plata, sensible: va después de que haya confianza en la conversación.
 
-- Piensa en el último pago que le hiciste al constructor. ¿Qué pasó justo antes de pagarlo?
+- Piensa en el último pago o giro que hiciste para la obra. ¿Qué pasó justo antes?
+  - Sondeo: ¿le pagaste directo al constructor o a través de alguien? ¿qué información te llegó por esa vía?
   - Sondeo: ¿qué viste o qué te dijeron?
   - Sondeo: si pidieron evidencia (fotos, visita), ¿quién la pidió y por qué esa?
   - Sondeo: ¿qué sentiste al hacer ese pago?
@@ -53,7 +56,7 @@ Es el tema de plata, sensible: va después de que haya confianza en la conversac
 ## Wrap-up (4 min)
 - De todo lo que hablamos, ¿qué fue lo más difícil de esa obra?
 - ¿Qué debí preguntarte y no te pregunté?
-- ¿Conoces a alguien que esté construyendo o terminando obra blanca y quiera contarme su experiencia?
+- ¿Conoces a alguien que esté construyendo casa, terminando obra blanca o mandando plata para una obra, y quiera contarme su experiencia?
 
 ## Recruitment plan
 - **Fuente principal:** quienes acepten la conversación en la encuesta (`product/surveys/2026-11-09-2129-confianza-plata-obra.md`). Los canales están en su sección Distribution y no se repiten aquí. Prioridad: quienes **contradicen** la creencia #2 (en Q8 marcaron "Ninguna" o una sola opción, y en Q6 no podían ir a diario), antes que quienes la confirman.
@@ -79,3 +82,16 @@ Es una prueba del diseño de la guía, no evidencia. La transcripción no se gua
 6. **Pregunta binaria:** "¿tranquilo o con dudas?" pasó a "¿qué sentiste al hacer ese pago?".
 
 **Qué se dejó igual a propósito:** el bloque del Objetivo 3, que funcionó (la historia de elección salió sin usar la palabra "transparencia"), y el orden cronológico.
+
+### 2026-11-09: segundo ensayo con Jhon Fredy Cardona (tertiary, sintética)
+Es una prueba del diseño de la guía, no evidencia. La transcripción no se guardó.
+
+**Qué cambió:**
+1. **Pago a través de alguien:** "el último pago que le hiciste al constructor" suponía un pago directo. El financiador a distancia respondió "yo no le pago al maestro, yo le giro a mi papá". Pasó a "el último pago o giro que hiciste para la obra", con el sondeo "¿directo o a través de alguien? ¿qué información te llegó por esa vía?".
+2. **Quién escogió al constructor:** el Objetivo 3 suponía que el participante escogió ("yo no decidí", dos veces). Se agregaron los sondeos "¿quién lo escogió? ¿qué participación tuviste?" y, si no fue él, "¿qué pusiste como condición antes de aceptar?".
+3. **Pregunta de referidos:** se amplió a "construyendo casa, terminando obra blanca o mandando plata para una obra", para cubrir los segmentos que la encuesta no alcanza.
+
+**Qué se dejó igual a propósito (decisión del usuario):**
+- No se agregó un sondeo sobre experiencias anteriores ("¿esa forma de estar pendiente viene de algo que te pasó antes?"), aunque en los dos ensayos el cierre lo señaló como lo que faltó preguntar.
+- No se ajustaron los tiempos verbales del calentamiento ("¿dónde vivías?") para obras en curso.
+- Se mantuvieron el sondeo de WhatsApp (dio un dato concreto) y la pregunta del pago más demorado (permitió que apareciera una razón distinta a la falta de evidencia, como esperar la tasa de cambio). Hay que avisar al inicio que se pedirá buscar en el celular.
