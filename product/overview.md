@@ -8,6 +8,7 @@ Herramienta para una constructora que está empezando. Sirve para armar cotizaci
 
 - **Quien opera la herramienta:** el constructor, dueño de una empresa pequeña que está empezando (2 casas, varias obras blancas y proyectos de carpintería) y quiere crecer. Hoy cotiza en Excel, se demora mucho en cada cotización y no tiene claro cómo armar los costos. Su mayor miedo es que el presupuesto no alcance en la obra y tener que pedirle más plata al cliente.
 - **Clientes finales:** familias de estrato 3, 4 y 5 que ya tienen lote para construir una casa, o un apartamento en obra gris para hacer la obra blanca.
+- **Zona de operación:** Rionegro, Medellín y el oriente antioqueño. Puede haber casos en que quien paga vive en el exterior y financia una obra en la zona.
 
 ## Sponsor
 
