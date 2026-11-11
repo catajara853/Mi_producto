@@ -60,6 +60,6 @@ No se propone investigación secundaria nueva: la del 2026-11-09 ya cubrió el m
 
 ## Candidate ideas (not evaluated)
 Salen de la descripción original del producto. Quedan aparcadas, no respaldadas; son el insumo de /explore-solutions.
-- Envío de avances de obra con fotos fechadas al cliente
-- Registro de cambios del proyecto con fechas límite para hacerlos
-- Plan de pagos atado a hitos de obra visibles para el cliente
+- Envío de avances de obra con fotos fechadas al cliente → **chosen** como A1 `avances-verificables` en [solutions](../solutions/2026-11-10-2038-confianza-plata-obra.md)
+- Registro de cambios del proyecto con fechas límite para hacerlos → **chosen**, unida a A2 `cambios-con-precio` en [solutions](../solutions/2026-11-10-2038-confianza-plata-obra.md)
+- Plan de pagos atado a hitos de obra visibles para el cliente → **parked** como A3 `pagos-por-hito` en [solutions](../solutions/2026-11-10-2038-confianza-plata-obra.md)
