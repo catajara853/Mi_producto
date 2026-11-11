@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Avances de obra</title>
+<style>
+  :root {
+    --bg: #f7f6f3; --card: #ffffff; --text: #1f1f1d; --muted: #6b6a66;
+    --line: #e4e2dc; --accent: #2f5d50; --stamp-bg: rgba(0,0,0,.62); --ph: #d9d6cf;
+    --demo: #b3541e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #171716; --card: #222220; --text: #ecebe7; --muted: #a5a39c;
+      --line: #34332f; --accent: #8cc5b3; --ph: #3a3935; --demo: #f0a070; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 16px; }
+  .demo { border: 1px dashed var(--demo); color: var(--demo); border-radius: 8px;
+    padding: 8px 12px; font-size: 14px; margin-bottom: 16px; }
+  header h1 { font-size: 22px; margin: 0 0 4px; }
+  header p { margin: 0 0 4px; color: var(--muted); }
+  .day { margin-top: 28px; }
+  .day h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .04em;
+    color: var(--muted); margin: 0 0 8px; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+  .entry { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 12px; margin-bottom: 12px; }
+  .entry h3 { font-size: 17px; margin: 0 0 2px; color: var(--accent); }
+  .entry p { margin: 0 0 10px; }
+  .photos { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .photo { position: relative; aspect-ratio: 4 / 3; background: var(--ph); border-radius: 6px;
+    overflow: hidden; display: flex; align-items: center; justify-content: center;
+    color: var(--muted); font-size: 13px; }
+  .stamp { position: absolute; left: 0; right: 0; bottom: 0; background: var(--stamp-bg);
+    color: #fff; font-size: 11px; line-height: 1.3; padding: 4px 6px; }
+  footer { margin: 32px 0 16px; color: var(--muted); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+
+  <div class="demo">EJEMPLO con datos inventados. Este archivo muestra la estructura que debe tener la página real; no se le envía a la familia.</div>
+
+  <header>
+    <h1>Avances de la obra · Apartamento 502 (EJEMPLO)</h1>
+    <p>Aquí publicamos lo que se hizo cada día de obra, con fotos que muestran fecha, hora y lugar.</p>
+  </header>
+
+  <!-- Una sección por día trabajado, la más reciente arriba -->
+  <section class="day">
+    <h2>Miércoles 12 de noviembre de 2026</h2>
+
+    <!-- Una entrada por espacio trabajado ese día: espacio, una línea de qué se hizo, fotos con sello -->
+    <article class="entry">
+      <h3>Baño principal</h3>
+      <p>Se terminó de pegar el enchape de la pared de la ducha.</p>
+      <div class="photos">
+        <div class="photo">foto
+          <span class="stamp">12/11/2026 · 10:42 a. m.<br>Cra. 00 # 00-00, Rionegro (EJEMPLO)</span></div>
+        <div class="photo">foto
+          <span class="stamp">12/11/2026 · 3:15 p. m.<br>Cra. 00 # 00-00, Rionegro (EJEMPLO)</span></div>
+      </div>
+    </article>
+
+    <article class="entry">
+      <h3>Cocina</h3>
+      <p>Llegaron y se revisaron los módulos bajos del mueble.</p>
+      <div class="photos">
+        <div class="photo">foto
+          <span class="stamp">12/11/2026 · 11:05 a. m.<br>Cra. 00 # 00-00, Rionegro (EJEMPLO)</span></div>
+      </div>
+    </article>
+  </section>
+
+  <section class="day">
+    <h2>Martes 11 de noviembre de 2026</h2>
+    <article class="entry">
+      <h3>Alcoba 2</h3>
+      <p>Primera mano de pintura en paredes y techo.</p>
+      <div class="photos">
+        <div class="photo">foto
+          <span class="stamp">11/11/2026 · 2:30 p. m.<br>Cra. 00 # 00-00, Rionegro (EJEMPLO)</span></div>
+        <div class="photo">foto
+          <span class="stamp">11/11/2026 · 4:10 p. m.<br>Cra. 00 # 00-00, Rionegro (EJEMPLO)</span></div>
+      </div>
+    </article>
+  </section>
+
+  <footer>Página privada de la obra. Solo la ve quien tiene este enlace.</footer>
+</main>
+</body>
+</html>

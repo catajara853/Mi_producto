@@ -2,7 +2,7 @@
 opportunity: confianza-plata-obra
 status: testing-several
 chosen: cambios-con-precio, avances-verificables
-tests: (lo agrega /design-solution-tests)
+tests: product/tests/2026-11-10-2054-confianza-plata-obra.md
 ---
 
 # Solutions for: Confianza con la plata durante la obra
@@ -56,7 +56,7 @@ El constructor (sponsor) eligió probar A2 y A1 en paralelo, igual que la recome
 - A1: "Con evidencia con fecha y ubicación, la familia deja de mandar a su veedor y de preguntar por el avance". Es la que la mata: si la familia sigue necesitando a su veedor, la evidencia del constructor no aporta confianza.
 - Transversal: "Las familias abren el portal al menos una vez por semana sin que se les recuerde por WhatsApp". Si no lo abren, ninguna de las dos funciona en formato web.
 
-Las pruebas se diseñan en /design-solution-tests.
+Diseño de las pruebas: [product/tests/2026-11-10-2054-confianza-plata-obra.md](../tests/2026-11-10-2054-confianza-plata-obra.md) (T1: cambios-con-precio; T2: avances-verificables; T3: uso del portal).
 
 ## Value proposition: cambios-con-precio (A2)
 - Pain relieved: enterarse del costo de un cambio cuando ya está hecho y no se puede deshacer (5 de 12 en el ensayo sintético; entre $1,4 y $8,4 millones).
